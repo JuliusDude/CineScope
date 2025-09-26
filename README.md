@@ -102,11 +102,3 @@ CineScope/
 
 * [W3Schools CSS](https://www.w3schools.com/css/default.asp)
 * [L&T LMS](https://learn.lntedutech.com/Landing/MyCourse)
-
----
-
-✨ *CineScope demonstrates the power of pure front-end development with engaging interactivity, clean design, and user-friendly movie reviews.*
-
----
-
-Would you like me to also **add shields.io badges (HTML, CSS, JS, Bootstrap, License, etc.)** at the top of this README so it looks **more polished for GitHub showcase** like I suggested for Holiday Planner?
